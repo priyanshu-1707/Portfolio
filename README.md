@@ -1,6 +1,8 @@
 # Portfolio Website
 
+
 Welcome to my portfolio website! This site showcases my work, skills, and projects. You can visit the live site [here](https://priyanshu-1707.github.io/Portfolio/).
+![screenshot-priyanshu-1707 github io-2024 08 02-00_41_18](https://github.com/user-attachments/assets/a1e9d628-5139-488e-8315-0af3332fda26)
 
 ## Table of Contents
 - [Introduction](#introduction)
